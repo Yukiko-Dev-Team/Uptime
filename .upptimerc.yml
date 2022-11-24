@@ -5,6 +5,8 @@ repo: Uptime
 sites:
   - name: Yukiko.app
     url: https://yukiko.app
+  - name: Beta Yukiko.app
+    url: https://beta.yukiko.app
   - name: Gateway
     url: https://Gateway.yukiko.app
   - name: Network JP
