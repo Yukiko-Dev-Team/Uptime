@@ -32,3 +32,12 @@ status-website:
 
 assignees:
   - Asthriona
+
+workflowSchedule:
+  graphs: "5 0 * * *"
+  responseTime: "5 23 * * *"
+  staticSite: "5 1 * * *"
+  summary: "5 0 * * *"
+  updateTemplate: "5 0 * * *"
+  updates: "5 3 * * *"
+  uptime: "5,20,35,50 * * * *"
