@@ -18,7 +18,6 @@ sites:
 
 status-website:
   cname: status.stellar-corp.net
-  baseUrl: status.stellar-corp.net
   logoUrl: https://cdn.nishikino.xyz/global/SC_Logo/SC_Logo_Horizontal_Dark.svg
   name: Stellar Corporation
   introTitle: "Stellar Corporation, Also known as the Yukiko Dev Team, is a developement Agcency."
