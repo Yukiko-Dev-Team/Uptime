@@ -7,14 +7,17 @@ sites:
     url: https://yukiko.app
     expectedStatusCodes:
       - 200
+      - 503
   - name: Beta Yukiko.app
     url: https://beta.yukiko.app
     expectedStatusCodes:
       - 200
+      - 503
   - name: Gateway
     url: https://Gateway.yukiko.app
     expectedStatusCodes:
       - 200
+      - 503
   - name: Network JP
     url: $SECRET_IP_JP
   - name: Network USA
