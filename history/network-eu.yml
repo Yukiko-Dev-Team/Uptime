@@ -1,7 +1,7 @@
 url: $SECRET_IP_EU
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-23T22:56:50.286Z
+status: up
+code: 200
+responseTime: 194
+lastUpdated: 2024-01-23T23:20:18.078Z
 startTime: 2022-11-17T18:10:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
