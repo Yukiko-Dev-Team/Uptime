@@ -15,6 +15,12 @@ sites:
       - 200
       - 503
       - 403
+  - name: v3 Yukiko.app
+    url: https://v3.yukiko.app
+    expectedStatusCodes:
+      - 200
+      - 503
+      - 403
   - name: Gateway
     url: https://Gateway.yukiko.app
     expectedStatusCodes:
