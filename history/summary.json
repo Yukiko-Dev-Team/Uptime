@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/yukiko.app.ico",
     "slug": "yukiko-app",
     "status": "up",
-    "uptime": "94.18%",
+    "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.77%",
     "time": 112,
-    "timeDay": 113,
-    "timeWeek": 79,
-    "timeMonth": 97,
+    "timeDay": 92,
+    "timeWeek": 77,
+    "timeMonth": 96,
     "timeYear": 92,
-    "dailyMinutesDown": {
-      "2023-02-16": 1302
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beta Yukiko.app",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.yukiko.app.ico",
     "slug": "beta-yukiko-app",
     "status": "up",
-    "uptime": "94.08%",
+    "uptime": "94.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.77%",
     "time": 97,
-    "timeDay": 117,
-    "timeWeek": 67,
+    "timeDay": 94,
+    "timeWeek": 72,
     "timeMonth": 73,
-    "timeYear": 86,
-    "dailyMinutesDown": {
-      "2023-02-16": 1302
-    }
+    "timeYear": 87,
+    "dailyMinutesDown": {}
   },
   {
     "name": "v3 Yukiko.app",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 100,
-    "timeWeek": 95,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "time": 81,
+    "timeDay": 104,
+    "timeWeek": 82,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.yukiko.app.ico",
     "slug": "gateway",
     "status": "up",
-    "uptime": "94.17%",
+    "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.77%",
     "time": 120,
-    "timeDay": 130,
-    "timeWeek": 77,
-    "timeMonth": 77,
+    "timeDay": 91,
+    "timeWeek": 74,
+    "timeMonth": 76,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2023-02-16": 1302
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Network JP",
@@ -89,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 271,
-    "timeDay": 214,
-    "timeWeek": 284,
+    "timeDay": 210,
+    "timeWeek": 283,
     "timeMonth": 278,
-    "timeYear": 273,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2024-01-09": 24,
       "2023-09-05": 71,
@@ -114,10 +108,10 @@
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.29%",
     "time": 237,
-    "timeDay": 273,
-    "timeWeek": 212,
-    "timeMonth": 219,
-    "timeYear": 239,
+    "timeDay": 311,
+    "timeWeek": 217,
+    "timeMonth": 218,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2024-01-27": 261,
       "2024-01-24": 16,
@@ -148,9 +142,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 272,
-    "timeWeek": 208,
-    "timeMonth": 215,
+    "timeDay": 309,
+    "timeWeek": 212,
+    "timeMonth": 216,
     "timeYear": 221,
     "dailyMinutesDown": {}
   }
