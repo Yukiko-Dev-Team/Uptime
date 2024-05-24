@@ -1,7 +1,7 @@
 url: $SECRET_IP_INA
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-24T11:42:31.822Z
+status: up
+code: 200
+responseTime: 282
+lastUpdated: 2024-05-24T14:56:50.481Z
 startTime: 2022-11-17T18:10:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
