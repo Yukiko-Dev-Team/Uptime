@@ -58,19 +58,19 @@
     "url": "https://Gateway.yukiko.app",
     "icon": "https://icons.duckduckgo.com/ip3/gateway.yukiko.app.ico",
     "slug": "gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "95.30%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 87,
-    "timeWeek": 121,
-    "timeMonth": 97,
+    "timeDay": 190,
+    "timeWeek": 142,
+    "timeMonth": 103,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-06-03": 0
+      "2024-06-03": 14
     }
   },
   {
