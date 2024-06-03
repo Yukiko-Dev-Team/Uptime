@@ -58,9 +58,9 @@
     "url": "https://Gateway.yukiko.app",
     "icon": "https://icons.duckduckgo.com/ip3/gateway.yukiko.app.ico",
     "slug": "gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "95.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 121,
     "timeMonth": 97,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "Network JP",
