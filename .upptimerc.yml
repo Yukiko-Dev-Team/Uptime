@@ -28,9 +28,9 @@ sites:
       - 503
       - 403
   - name: Network JP
-    url: $SECRET_IP_JP
-  # - name: Network USA
-  #   url: $SECRET_IP_USA
+    url: $SECRET_IP_INA
+  - name: Network USA
+    url: $SECRET_IP_INA
   - name: Network EU
     url: $SECRET_IP_EU
   - name: bot
