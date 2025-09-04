@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 332,
-    "timeWeek": 151,
-    "timeMonth": 184,
-    "timeYear": 140,
+    "timeDay": 148,
+    "timeWeek": 155,
+    "timeMonth": 185,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 321,
-    "timeWeek": 157,
-    "timeMonth": 160,
+    "timeDay": 226,
+    "timeWeek": 174,
+    "timeMonth": 165,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 316,
-    "timeWeek": 137,
-    "timeMonth": 187,
+    "timeDay": 133,
+    "timeWeek": 145,
+    "timeMonth": 189,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -63,15 +63,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 98,
-    "timeDay": 73,
-    "timeWeek": 20,
+    "timeDay": 26,
+    "timeWeek": 22,
     "timeMonth": 31,
     "timeYear": 20,
-    "dailyMinutesDown": {
-      "2024-09-04": 198
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Network JP",
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 312,
-    "timeWeek": 234,
-    "timeMonth": 218,
+    "timeDay": 232,
+    "timeWeek": 240,
+    "timeMonth": 220,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-10-16": 35,
@@ -106,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 156,
-    "timeWeek": 117,
-    "timeMonth": 109,
+    "timeDay": 116,
+    "timeWeek": 120,
+    "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-10-16": 35,
@@ -125,16 +123,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 140,
-    "timeDay": 156,
-    "timeWeek": 117,
-    "timeMonth": 109,
+    "uptimeYear": "99.97%",
+    "time": 139,
+    "timeDay": 116,
+    "timeWeek": 120,
+    "timeMonth": 110,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-10-16": 35,
-      "2024-10-10": 16,
-      "2024-09-04": 198
+      "2024-10-10": 16
     }
   },
   {
@@ -149,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 156,
-    "timeWeek": 117,
-    "timeMonth": 109,
+    "timeDay": 116,
+    "timeWeek": 120,
+    "timeMonth": 110,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-10-16": 35,
