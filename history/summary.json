@@ -4,18 +4,20 @@
     "url": "https://yukiko.app",
     "icon": "https://icons.duckduckgo.com/ip3/yukiko.app.ico",
     "slug": "yukiko-app",
-    "status": "up",
+    "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 351,
-    "timeWeek": 205,
-    "timeMonth": 298,
-    "timeYear": 161,
-    "dailyMinutesDown": {}
+    "timeDay": 235,
+    "timeWeek": 194,
+    "timeMonth": 292,
+    "timeYear": 160,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Beta Yukiko.app",
@@ -40,36 +42,40 @@
     "url": "https://v3.yukiko.app",
     "icon": "https://icons.duckduckgo.com/ip3/v3.yukiko.app.ico",
     "slug": "v3-yukiko-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 214,
-    "timeWeek": 174,
-    "timeMonth": 163,
+    "timeDay": 163,
+    "timeWeek": 166,
+    "timeMonth": 162,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Gateway",
     "url": "https://yukiko.app",
     "icon": "https://icons.duckduckgo.com/ip3/yukiko.app.ico",
     "slug": "gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "97.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 65,
-    "timeDay": 64,
-    "timeWeek": 37,
+    "time": 64,
+    "timeDay": 39,
+    "timeWeek": 34,
     "timeMonth": 23,
     "timeYear": 21,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Network JP",
