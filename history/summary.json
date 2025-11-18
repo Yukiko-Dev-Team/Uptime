@@ -6,17 +6,17 @@
     "slug": "yukiko-app",
     "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 152,
     "timeDay": 235,
     "timeWeek": 194,
     "timeMonth": 292,
-    "timeYear": 160,
+    "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://beta.yukiko.app",
     "icon": "https://icons.duckduckgo.com/ip3/beta.yukiko.app.ico",
     "slug": "beta-yukiko-app",
-    "status": "up",
+    "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 156,
-    "timeWeek": 205,
-    "timeMonth": 157,
+    "timeDay": 123,
+    "timeWeek": 191,
+    "timeMonth": 155,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "v3 Yukiko.app",
@@ -44,9 +46,9 @@
     "slug": "v3-yukiko-app",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 163,
@@ -54,7 +56,7 @@
     "timeMonth": 162,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
@@ -64,9 +66,9 @@
     "slug": "gateway",
     "status": "down",
     "uptime": "97.35%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 39,
@@ -74,7 +76,7 @@
     "timeMonth": 23,
     "timeYear": 21,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
