@@ -1,7 +1,7 @@
 url: https://beta.yukiko.app
-status: up
-code: 403
-responseTime: 156
-lastUpdated: 2025-11-17T23:26:30.207Z
+status: down
+code: 500
+responseTime: 89
+lastUpdated: 2025-11-18T11:56:09.844Z
 startTime: 2022-11-24T10:17:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
