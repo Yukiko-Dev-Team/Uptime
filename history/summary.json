@@ -84,10 +84,10 @@
     "url": "$SECRET_IP_JP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
@@ -95,17 +95,19 @@
     "timeWeek": 202,
     "timeMonth": 213,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-11": 2
+    }
   },
   {
     "name": "Network USA",
     "url": "$SECRET_IP_INA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
@@ -113,17 +115,19 @@
     "timeWeek": 101,
     "timeMonth": 107,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-11": 1
+    }
   },
   {
     "name": "Network EU",
     "url": "$SECRET_IP_INA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
@@ -131,16 +135,18 @@
     "timeWeek": 101,
     "timeMonth": 107,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-11": 1
+    }
   },
   {
     "name": "bot",
     "url": "$SECRET_IP_INA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,6 +155,8 @@
     "timeWeek": 101,
     "timeMonth": 107,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-11": 0
+    }
   }
 ]
