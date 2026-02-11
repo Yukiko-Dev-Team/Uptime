@@ -84,19 +84,19 @@
     "url": "$SECRET_IP_JP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-jp",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "83.83%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.96%",
     "time": 226,
-    "timeDay": 220,
-    "timeWeek": 202,
+    "timeDay": 219,
+    "timeWeek": 204,
     "timeMonth": 213,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-02-11": 2
+      "2026-02-11": 233
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "$SECRET_IP_INA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-usa",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "83.87%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.96%",
     "time": 113,
-    "timeDay": 110,
+    "timeDay": 108,
     "timeWeek": 101,
     "timeMonth": 107,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-02-11": 1
+      "2026-02-11": 232
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "$SECRET_IP_INA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network-eu",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "83.90%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.96%",
     "time": 113,
-    "timeDay": 110,
-    "timeWeek": 101,
+    "timeDay": 108,
+    "timeWeek": 102,
     "timeMonth": 107,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-02-11": 1
+      "2026-02-11": 232
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "$SECRET_IP_INA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "83.93%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.96%",
     "time": 113,
-    "timeDay": 110,
+    "timeDay": 108,
     "timeWeek": 101,
     "timeMonth": 107,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-02-11": 0
+      "2026-02-11": 231
     }
   }
 ]
