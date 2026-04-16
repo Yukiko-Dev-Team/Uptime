@@ -25,9 +25,9 @@
     "url": "https://beta.yukiko.app",
     "icon": "https://icons.duckduckgo.com/ip3/beta.yukiko.app.ico",
     "slug": "beta-yukiko-app",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -37,6 +37,7 @@
     "timeMonth": 131,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2026-04-16": 0,
       "2025-11-18": 205
     }
   },
