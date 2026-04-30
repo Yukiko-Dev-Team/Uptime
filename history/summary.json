@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/yukiko.app.ico",
     "slug": "yukiko-app",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 158,
-    "timeDay": 146,
-    "timeWeek": 119,
-    "timeMonth": 129,
+    "timeDay": 129,
+    "timeWeek": 111,
+    "timeMonth": 131,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2026-03-10": 60,
@@ -32,8 +32,8 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
     "time": 148,
-    "timeDay": 134,
-    "timeWeek": 111,
+    "timeDay": 144,
+    "timeWeek": 112,
     "timeMonth": 133,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 140,
-    "timeDay": 139,
+    "timeDay": 138,
     "timeWeek": 130,
-    "timeMonth": 135,
+    "timeMonth": 136,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-11-18": 185
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 20,
-    "timeDay": 18,
-    "timeWeek": 10,
+    "timeDay": 6,
+    "timeWeek": 9,
     "timeMonth": 8,
     "timeYear": 19,
     "dailyMinutesDown": {
@@ -94,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 229,
-    "timeDay": 216,
-    "timeWeek": 204,
-    "timeMonth": 210,
-    "timeYear": 233,
+    "timeDay": 305,
+    "timeWeek": 208,
+    "timeMonth": 213,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2026-02-11": 233
     }
@@ -113,10 +113,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 114,
-    "timeDay": 108,
-    "timeWeek": 101,
-    "timeMonth": 105,
+    "time": 115,
+    "timeDay": 153,
+    "timeWeek": 104,
+    "timeMonth": 106,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2026-02-11": 232
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 115,
-    "timeDay": 108,
-    "timeWeek": 101,
-    "timeMonth": 105,
+    "timeDay": 153,
+    "timeWeek": 104,
+    "timeMonth": 106,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2026-02-11": 232
@@ -153,10 +153,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 114,
-    "timeDay": 108,
-    "timeWeek": 101,
-    "timeMonth": 105,
+    "time": 115,
+    "timeDay": 153,
+    "timeWeek": 103,
+    "timeMonth": 106,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2026-02-11": 231
